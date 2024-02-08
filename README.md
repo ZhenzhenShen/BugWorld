@@ -7,3 +7,6 @@ Interactive Controls: Start, pause, and resume the simulation at any time.
 Add Plants: Dynamically add flowers, grass, or trees to the ecosystem.
 Energy System: Bugs consume energy as they move and gain energy by eating plants.
 Growth and Shrinkage: Plants grow over time, and bugs grow as they consume plants. Plants shrink when eaten by bugs.
+
+Acknowledgments Special thanks to Victoria University of Wellington for providing the project framework and guidelines.
+This project is for educational purposes and part of the SWEN501 course assignment.
